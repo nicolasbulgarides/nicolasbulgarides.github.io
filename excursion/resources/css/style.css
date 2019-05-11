@@ -9,7 +9,15 @@ color: Aquamarine;
 font-size: 16px;
 }
 
+h2 {
+  font-size:21px;
+  color: gray;
 
+}
+
+#copyright {
+  text-align: right;
+}
 
 body {
   background-color: black;
