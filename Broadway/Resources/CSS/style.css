@@ -1,3 +1,69 @@
-p1 {
-  color: pink;
+#pageheader {
+  background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
 }
+
+a {
+  color: white;
+}
+
+#contactmeail {
+  color: blue;
+}
+
+body {
+  font-family: helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+h4 {
+  color: white;
+  font-size: 18px;
+}
+
+h5 {
+  font-size: 14px;
+  font-family: helvetica;
+  font-weight: normal;
+}
+
+#emailcontact {
+  color: blue;
+}
+/* sections with stylistic emphasis*/
+<div>
+  #emphasizedprocess
+    {
+      font-size:32px;
+      font-weight: bold;
+    }
+
+  #designlocation {
+    background-color: dimgray;
+    color: white;
+    background: url("../images/the-flatiron-building.png");
+  }
+
+  #accesslist {
+    font-size:18px;
+    color: white;
+  }
+
+
+  #footer {
+      font-size: 11px;
+      color: white;
+      background-color: dimgray;
+      text-align: left;
+  }
+</div>
